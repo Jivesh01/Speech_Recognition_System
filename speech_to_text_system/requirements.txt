@@ -1,0 +1,9 @@
+SpeechRecognition
+pydub
+pocketsphinx
+ffmpeg-python
+transformers
+torchaudio
+sox
+ffmpeg 
+soundfile
